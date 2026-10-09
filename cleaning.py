@@ -1,16 +1,3 @@
-# ==========================================
-# FUNCIONES DE LIMPIEZA
-# ==========================================
-
-
-# Limpieza de porcentajes
-
-
-# Limpieza de fechas
-
-
-# Limpieza de coordenadas
-
 
 import pandas as pd
 

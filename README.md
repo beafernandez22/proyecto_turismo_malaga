@@ -1,9 +1,3 @@
-Tema: turismo sostenible en Málaga.
-Problema: presión turística y percepción de los residentes.
-Pregunta principal: ¿Qué factores están asociados con una mayor percepción negativa del turismo entre los residentes de Málaga y dónde se concentra esa presión?
-Hipótesis principal: las zonas con mayor presión turística podrían presentar una percepción más negativa.
-
-
 # Turismo sostenible en Málaga: presión turística y percepción de los residentes
 
 ## 1. Objetivo del proyecto
